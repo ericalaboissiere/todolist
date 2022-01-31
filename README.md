@@ -8,13 +8,13 @@ Platform designed to manage organize your tasks, in which it's possible to regis
 1. git clone [To do List](git@github.com:ericalaboissiere/todolist.git)
 2. cd to the directory where requirements.txt is located.
 3. activate your virtualenv.
-4. ```$ pip install -r requirements.txt in your shell.
+4. ```$ pip install -r requirements.txt in your shell.```
 5. create .env file
 6. set environment variables
-5. ```$ flask db init
-6. ```$ flask db migrate -m "Initial migration."
-7. ```$ flask db upgrade
-8. ```$ flask run
+5. ```$ flask db init```
+6. ```$ flask db migrate -m "Initial migration."```
+7. ```$ flask db upgrade```
+8. ```$ flask run```
 
 **Routes**
 
